@@ -1,2 +1,3 @@
 # my-first-project-
-my first repository
+This is my first repository
+Author _ name is Ahsan
